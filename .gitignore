@@ -1,0 +1,13 @@
+.vscode
+__pycache__
+
+tf_logs
+tf_models
+tf_weights
+log
+data
+trash
+*.p
+*.csv
+*.xlsx
+draft.md
